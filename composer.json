@@ -1,0 +1,10 @@
+{
+    "description": "Dojo Skeleton",
+    "keywords": [
+        "dojo",
+        "developers"
+    ],
+    "require": {
+        "phpunit/phpunit": "~4.0"
+    }
+}
